@@ -1,13 +1,13 @@
 #EXTM3U
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Nuggets vs Clippers (Game 7) 
-      #EXTVLCOPT:http-origin=https://nbawebcast.app/
-      #EXTVLCOPT:http-referrer=https://nbawebcast.app//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://live.webcastserver.online/hdstream/embed/157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",Nuggets vs Clippers (Game 7) 
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/157.m3u8
 
-      #EXTINF:-1 tvg-logo="" group-title="NBA",Nuggets vs Clippers (Game 7) Stream 2
-      #EXTVLCOPT:http-origin=https://ppv.wtf/
-      #EXTVLCOPT:http-referrer=https://ppv.wtf//
-      #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-      https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=kceUsdfP1EX4pmzguMoUtQ&expires=1746340903
+#EXTINF:-1 tvg-logo="" group-title="NBA",Nuggets vs Clippers (Game 7) Stream 2
+#EXTVLCOPT:http-origin=https://ppv.wtf/
+#EXTVLCOPT:http-referrer=https://ppv.wtf//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=kceUsdfP1EX4pmzguMoUtQ&expires=1746340903
